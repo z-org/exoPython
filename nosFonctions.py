@@ -1,5 +1,10 @@
+#on defini nos fonctions, chaque fonction comprend: 
+#def nonDeFonction ():
+#si on besoin que notre fonction nous donne une reponse on ecrit return plus la valeur a retourner
+
 def tapezLettre ():
     boite = input("tapez les characteres")
+    #ici on renvois la valeur contenue qui contient les charcteres tape
     return boite
 
 def tapezEntier ():
