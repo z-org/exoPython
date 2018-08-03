@@ -1,2 +1,10 @@
-git config --local user.name "NOM"
-git config --local user.email "EMAIL"
+1ere etape :
+    - faire un fork si le projet ne vous appartient pas sinon créer le repertoire sur github 
+2eme etape :
+    - verifier si git est installe
+    - copier l'url du de votre depot (bouton vert)
+    - tapez la commande dans : git clone url
+3eme etape :
+    - pour configurer git entrer les commandes suivantes :
+     - git config --local user.name "NOM"
+     - git config --local user.email "EMAIL"
